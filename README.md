@@ -1,5 +1,8 @@
 # picoCTF-Writeups
- My writeups on challenges at picoCTF.
+
+![](https://miro.medium.com/max/864/1*0FYnt8IngPu-OTy5CGjFZg.png)
+
+### My writeups on challenges at picoCTF.
 
 
 - [2Warm](./2Warm/Writeup.md)
