@@ -12,7 +12,7 @@
 - [First-Grep](./First-Grep/Writeup.md)
 - [Glitch-Cat](./Glitch-Cat/Writeup.md)
 - [Glory-of-the-garden](./Glory-of-the-garden/Writeup.md)
-- [Hashing-Job-App](./Hashing-Job-app/Writeup.md)
+- [Hashing-Job-App](./Hashing-Job-App/Writeup.md)
 - [Information](./Information/Writeup.md)
 - [Insp3ct0r](./Insp3ct0r/Writeup.md)
 - [Obedient-Cat](./Obedient-Cat/Writeup.md)
